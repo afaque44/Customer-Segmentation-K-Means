@@ -1,2 +1,4 @@
 # Customer-Segmentation-K-Means
 'Customer Segmentation using K-Means', involves using the K-Means algorithm to group customers into distinct segments based on their purchasing behavior. The goal of this project is to help businesses better understand their customer base and tailor their marketing strategies and product offerings to specific segments. 
+To accomplish this, I performed data cleaning and preprocessing to ensure that the data is in a usable format for machine learning models. You may also need to perform exploratory data analysis to gain insights into the relationships between the input features and the target variable (customer segments).
+Once the data is prepared, I used the K-Means algorithm to cluster customers based on their purchasing behavior, such as Annual Income, total spending. I determined the optimal number of clusters (segments) and the appropriate distance metric to use for the algorithm.
